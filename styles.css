@@ -8,7 +8,7 @@
 }
 
 body{
-    background: url('/assets/fotos/Portada.jpeg');
+    background: url('assets/fotos/Portada.jpeg');
     background-position: center;
     min-height: 100vh;
     display: flex;
